@@ -993,10 +993,10 @@
   dependencies:
     "@chakra-ui/utils" "1.8.1"
 
-"@codesee/babel-plugin-instrument@0.39.0":
-  version "0.39.0"
-  resolved "https://registry.yarnpkg.com/@codesee/babel-plugin-instrument/-/babel-plugin-instrument-0.39.0.tgz#d0eb6d7f9500ea524c20dbb5772a05d8a5c3bcdb"
-  integrity sha512-vJS3rqo+sihN498xLPgyIvCtAqW5ZBzHMimNKY8W/wL5mFNvOHerTjeeRKxZkcNBCoO6P0eQNmI7x1Sbs8C50w==
+"@codesee/babel-plugin-instrument@0.48.0":
+  version "0.48.0"
+  resolved "https://registry.yarnpkg.com/@codesee/babel-plugin-instrument/-/babel-plugin-instrument-0.48.0.tgz#5e4b85acc18c68993abca951938659dbcd1fbb94"
+  integrity sha512-8dzLf8Z+6BAoIzdbh2/V2a+UeKjcfnkDy9rPLTWkzUT0cHALSFZ4k3rOellbXkSYeT8chIHQYPjPaRTQFtOqyg==
   dependencies:
     "@babel/plugin-syntax-jsx" "^7.12.13"
     "@babel/plugin-transform-typescript" "^7.14.4"
